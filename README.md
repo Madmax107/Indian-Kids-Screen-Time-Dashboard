@@ -3,6 +3,8 @@
 ## 📌 Project Overview
 This project presents an interactive Power BI dashboard to explore and analyze **screen time trends among Indian kids** aged 8 to 18. The objective is to identify how screen exposure varies across **age, gender, region (urban/rural)** and **device types**, and how it affects **children's health and learning behavior**.
 
+![image alt](https://github.com/Madmax107/Indian-Kids-Screen-Time-Dashboard/blob/076b21cb395bc6f61bb444410342b5981efbd454/Dashboard%20images/ss2.png)
+
 ---
 
 ## 🎯 Key Insights
